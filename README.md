@@ -30,9 +30,7 @@ print("Hello, world!")
 ```
 🚀 Less typing, more chilling. Python lets you write code like a boss. 😎
 
-![Python vs Java Meme](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.git)
-
-
+![Python vs Java Meme](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 ### 🚀 2. Fast to Write, Faster to Debug
 - ✅ **Python:** "Hey buddy, there's a missing colon on line 5. No worries, I got you."
