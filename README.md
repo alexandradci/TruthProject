@@ -45,3 +45,6 @@
 [![Build Status](https://dezyre.gumlet.io/images/Java+vs+Python+for+Data+Science/Java+vs+Python+for+Data+Science.png?w=376&dpr=2.6)](https://dezyre.gumlet.io/images/Java+vs+Python+for+Data+Science/Java+vs+Python+for+Data+Science.png?w=376&dpr=2.6)
 
 - # some Python Code
+
+```
+print("Ekaterinas python code")
