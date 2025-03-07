@@ -1,4 +1,3 @@
-
 # Python is better then Java
 - ## _Simplicity and Readability_
     - Clean and simple syntax that mimics human language
@@ -6,7 +5,7 @@
     - Easier to read and write, making 
 [!["Python is better then Java"](https://www.digitalnest.in/blog/wp-content/uploads/2019/07/How-is-Python-better-than-Java.png)](https://www.digitalnest.in/blog/wp-content/uploads/2019/07/How-is-Python-better-than-Java.png)
 
-- ## _Simplicity and Readability_
+- ## _Development Speed_
     - Rapid development due to concise syntax.
     - Less time spent on writing code, more time for problem-solving.
     - Excellent for prototyping and fast iteration.
