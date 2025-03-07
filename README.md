@@ -54,7 +54,7 @@ Java is better suited for large-scale enterprise applications but can be cumbers
 
 ## 📸 Python in Action
 ### Python Community Growth 📈
-![Python Growth](https://upload.wikimedia.org/wikipedia/commons/1/1b/Python_logo_01.svg)
+![Python Growth](https://cdn.mos.cms.futurecdn.net/H3jMhUBRC5T2qAtGENEq7S.jpg)
 
 ### Python for AI 🤖
 ![AI with Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
