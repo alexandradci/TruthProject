@@ -1,8 +1,21 @@
-### Weeelcome 2 the TruthProject!! ###
+# 🐍 Python vs. Java ☕  
+### *The Ultimate Battle (But Python Already Won! 😆)*  
+
+---
+
+## **1️⃣ Readability & Simplicity 📖**  
+Python is designed to be **easy to read** and **simple to write**, while Java... well, let's just say it *loves* boilerplate code.  
+
+### 🔥 **Example: "Hello, World!"**  
+#### **In Java:**  
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
 
 
- First things first: PYTHON IS THE BEST CODING LANGUAGE, PERIOD.
 
 
-Okay, now moving on, this README was created to let ya'll know that Python doesn't
-only talk the talk, it can walk the walk and apply some serious pressure!
+I didn't really have enough time to use markdown, not gonna lie...
