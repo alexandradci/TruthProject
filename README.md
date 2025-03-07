@@ -1,4 +1,4 @@
-### ###### Weeelcome 2 the TruthProject!! ###### ###
+### Weeelcome 2 the TruthProject!!
 
 
 First things first: PYTHON IS THE BEST CODING LANGUAGE, PERIOD.
@@ -30,7 +30,7 @@ print("Hello, world!")
 ```
 🚀 Less typing, more chilling. Python lets you write code like a boss. 😎
 
-![Python vs Java Meme](https://media.giphy.com/media/3oriO0OEd9QID)
+![Python vs Java Meme](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.git)
 
 
 - a joke from Ekaterina
